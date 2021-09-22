@@ -16,7 +16,7 @@
   <img align="center" alt="Yan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Yan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="right" alt="Yan-Kan" src="https://cdn.discordapp.com/attachments/867256429664403516/877245213259747358/hey.gif">
+ <img align="right" alt="Yan-Kan" src="https://cdn.discordapp.com/attachments/841660427305222195/890311711960236042/bokuno-hero-academia-izuku.gif">
   </div> 
   
   <div>
