@@ -31,6 +31,5 @@
    
   
   
-   ![Snake animation] (https://github.com/YanLNol/YanLNol/blob/output-1/github-contribution-grid-snake.svg)
    
    </div>
