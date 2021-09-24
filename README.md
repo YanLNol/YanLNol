@@ -7,7 +7,8 @@
 
 <a href="https://github.com/YanLNol">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YanLNol&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanLNol&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanLNol&layout=compact&hide=html,javascript,css&langs_count=10&theme=dark" alt="YanLNol"/>
+   <img height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=YanLNol&theme=dark" alt="YanLNol"/>
   
   </div>
 <div style="display: inline_block"><br>
