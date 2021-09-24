@@ -12,6 +12,7 @@
   
   </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="Yan-Kali" height="40" src="https://i.pinimg.com/originals/c9/db/49/c9db49baf7a9b2237589f583fa26148d.png">
   <img align="center" alt="Yan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Yan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Yan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
