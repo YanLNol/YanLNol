@@ -1,7 +1,7 @@
 ### Oi eu sou o Yan! 👋
 
 - 🔭 Linguagem principal e mais usada: TypeScript e JavaScript
-- 👯 Trabalho como Developer
+- 👯 Trabalho como Developer/Ethical Hacker e Pentester
 - 🤔 Muito atencioso e gosto de estudar bastante
 - ⚡ Fun fact: Especialista em códigos com muito drip.
 
