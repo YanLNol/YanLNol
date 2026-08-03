@@ -2,8 +2,8 @@
 
 - 🔭 Linguagem principal e mais usada: C# e JavaScript
 - 👯 Trabalho como Developer/Ethical Hacker e Pentester
-- 🤔 Muito atencioso e gosto de estudar bastante
-- ⚡ Fun fact: Especialista em códigos com muito drip.
+- 🤔 Estudar Musica
+- ⚡ Fun fact: Especialista em códigos e em pentest.
 
 <a href="https://github.com/YanLNol">
 <img height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=YanLNol&theme=dark" alt="YanLNol"/>
@@ -20,7 +20,7 @@
  <img align="right" alt="Yan-Kan" src="https://cdn.discordapp.com/attachments/841660427305222195/890311711960236042/bokuno-hero-academia-izuku.gif">
   </div> 
     
-    console.log("hello, world!");
+    console.log("hello, nerds!");
   
   <div>
   <a href="https://www.youtube.com/channel/UCBA0mNfu09N_g1y-h8czQWw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
